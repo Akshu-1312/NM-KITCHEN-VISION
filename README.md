@@ -1,3 +1,6 @@
+Video: https://drive.google.com/open?id=18ueXEvpG-MLKg4wmTzCwQhsytxcf7Chs&usp=drive_copy
+
+
 # Kitchen Vision
 
 Kitchen Vision is a Streamlit app that accepts a pantry photo and generates:
@@ -167,3 +170,4 @@ Example JSON response:
 ## Author
 
 Kitchen Vision Project
+
